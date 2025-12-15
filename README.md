@@ -151,4 +151,4 @@ Deletes any loan regardless of status.
 
 
 
-**Authorization:** JWT tokens with role claims (User, Accountant)
+
